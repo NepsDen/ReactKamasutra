@@ -1,0 +1,14 @@
+.item {
+	color: green;
+}
+
+.post {
+	font-size: 25px;
+	margin: 10px;
+}
+
+.item img {
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+}
